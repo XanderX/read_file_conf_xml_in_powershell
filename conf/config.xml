@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Time-stamp: "config.xml   23 Feb 2016 16:15:04" -->
+<!DOCTYPE config SYSTEM "config.dtd" >
+	<config>
+		<rep_log>log</rep_log>
+	</config>
+

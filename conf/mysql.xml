@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Time-stamp: "mysql.xml   23 Feb 2016 16:15:04" -->
+<!DOCTYPE mysql SYSTEM "mysql.dtd" >
+	<mysql>
+		<user>user</user>
+		<pass>password</pass>
+		<database>database</database>
+		<host>hostmysqladdress</host>
+	</mysql>
